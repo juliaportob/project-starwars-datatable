@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/project-starwars-datatable/static/css/main.ec14b570.chunk.css",
+    "main.js": "/project-starwars-datatable/static/js/main.19dc9c56.chunk.js",
+    "main.js.map": "/project-starwars-datatable/static/js/main.19dc9c56.chunk.js.map",
+    "runtime-main.js": "/project-starwars-datatable/static/js/runtime-main.1bcb906f.js",
+    "runtime-main.js.map": "/project-starwars-datatable/static/js/runtime-main.1bcb906f.js.map",
+    "static/js/2.cc70b81b.chunk.js": "/project-starwars-datatable/static/js/2.cc70b81b.chunk.js",
+    "static/js/2.cc70b81b.chunk.js.map": "/project-starwars-datatable/static/js/2.cc70b81b.chunk.js.map",
+    "index.html": "/project-starwars-datatable/index.html",
+    "static/css/main.ec14b570.chunk.css.map": "/project-starwars-datatable/static/css/main.ec14b570.chunk.css.map",
+    "static/js/2.cc70b81b.chunk.js.LICENSE.txt": "/project-starwars-datatable/static/js/2.cc70b81b.chunk.js.LICENSE.txt",
+    "static/media/table.css": "/project-starwars-datatable/static/media/starwarsbg.aa5a51d1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bcb906f.js",
+    "static/js/2.cc70b81b.chunk.js",
+    "static/css/main.ec14b570.chunk.css",
+    "static/js/main.19dc9c56.chunk.js"
+  ]
+}
