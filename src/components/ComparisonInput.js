@@ -58,7 +58,7 @@ function ComparisonInputs() {
         onChange={({ target }) => setLocalComparison(target.value)}
         value={localComparison}
       >
-        <option>Larger Then</option>
+        <option>Larger Than</option>
         <option>Smaller Than</option>
         <option>Equal To</option>
       </select>
